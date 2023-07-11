@@ -1,3 +1,5 @@
+Webbit is a combined scraper and crawler, who's job is to find hidden easter eggs in website, also for automated capture the flag finds.
+
 # README
 
 This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
